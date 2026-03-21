@@ -19,8 +19,7 @@ description: >-
   一个充满热情的 Ruby / JavaScript / Python 程序员
 baseurl: ""
 url: "https://briteming.github.io/gb"
-twitter_username: greatghoul
-github_username:  greatghoul
+github_username: briteming
 
 # Build settings
 markdown: kramdown
