@@ -18,7 +18,7 @@ email: greatghoul@gmail.com
 description: >-
   一个充满热情的 Ruby / JavaScript / Python 程序员
 baseurl: "/gb"
-url: "/gb"
+url: "https://briteming.github.io/gb"
 github_username: briteming
 
 # Build settings
